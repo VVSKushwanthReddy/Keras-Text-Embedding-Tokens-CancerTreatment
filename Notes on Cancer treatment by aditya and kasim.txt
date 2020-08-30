@@ -1,0 +1,7 @@
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
+Text column is converted in to bag of words and does word to vectorizer
+
+Taking intermediate output of 5 layer neural network in to 50 column or dimensions . and then attaching it back to other initial frature columns 
+
+Multiclassifiaction:Finally applying xgboost and random forrest to find 9 values
